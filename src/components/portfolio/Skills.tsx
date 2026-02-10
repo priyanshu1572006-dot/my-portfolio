@@ -11,7 +11,7 @@ const Skills = () => {
     {
       title: 'Data Analysis',
       icon: Database,
-      skills: ['SQL', 'Python', 'Statistical Analysis', 'Data Mining'],
+      skills: ['SQL', 'Numpy', 'Pandas', 'Statistical Analysis', 'Data Mining'],
       color: 'bg-purple-50 text-purple-600 border-purple-200',
     },
     {
