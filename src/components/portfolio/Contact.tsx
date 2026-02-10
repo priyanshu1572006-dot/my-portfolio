@@ -5,22 +5,23 @@ const Contact = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'your.email@example.com',
-      href: 'mailto:your.email@example.com',
+      value: 'priyanshu1572006@gmail.com',
+      href: 'mailto:priyanshu1572006@gmail.com',
       color: 'text-blue-600',
     },
     {
       icon: Linkedin,
       label: 'LinkedIn',
-      value: 'linkedin.com/in/yourprofile',
-      href: 'https://linkedin.com/in/yourprofile',
+      value: 'priyanshu-shukla',
+      href: 'https://www.linkedin.com/in/priyanshu-shukla-1ab61130a/
+',
       color: 'text-blue-700',
     },
     {
       icon: Github,
       label: 'GitHub',
-      value: 'github.com/yourusername',
-      href: 'https://github.com/yourusername',
+      value: 'priyanshu1572006-dot',
+      href: 'https://github.com/priyanshu1572006-dot',
       color: 'text-gray-800',
     },
   ];
