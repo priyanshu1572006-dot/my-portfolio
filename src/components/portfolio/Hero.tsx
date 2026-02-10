@@ -80,8 +80,8 @@ const Hero = ({ onViewProjects, onResumeClick }: HeroProps) => {
           <div className="relative">
             <div className="aspect-square rounded-2xl overflow-hidden bg-muted border border-border">
               <img
-                src="https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=800&q=80"
-                alt="Data Analysis Workspace"
+                src="/profile.jpg.png"
+                alt="Priyanshu Shukla – Data Analyst"
                 className="w-full h-full object-cover"
               />
             </div>
