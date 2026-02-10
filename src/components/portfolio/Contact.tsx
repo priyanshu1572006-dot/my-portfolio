@@ -6,7 +6,7 @@ const Contact = () => {
       icon: Mail,
       label: 'Email',
       value: 'priyanshu1572006@gmail.com',
-      href: 'mailto:priyanshu1572006@gmail.com',
+      href: 'https://mail.google.com/mail/?view=cm&fs=1&to=priyanshu1572006@gmail.com&su=Portfolio%20Contact',
       color: 'text-blue-600',
     },
     {
