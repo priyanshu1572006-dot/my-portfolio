@@ -13,8 +13,7 @@ const Contact = () => {
       icon: Linkedin,
       label: 'LinkedIn',
       value: 'priyanshu-shukla',
-      href: 'https://www.linkedin.com/in/priyanshu-shukla-1ab61130a/
-',
+      href: 'https://www.linkedin.com/in/priyanshu-shukla-1ab61130a/',
       color: 'text-blue-700',
     },
     {
