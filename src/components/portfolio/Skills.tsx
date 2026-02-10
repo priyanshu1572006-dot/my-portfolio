@@ -5,19 +5,19 @@ const Skills = () => {
     {
       title: 'Data Visualization',
       icon: BarChart3,
-      skills: ['Power BI', 'Tableau', 'Excel', 'Matplotlib', 'Seaborn'],
+      skills: ['Power BI', 'Excel', 'Matplotlib'],
       color: 'bg-blue-50 text-blue-600 border-blue-200',
     },
     {
       title: 'Data Analysis',
       icon: Database,
-      skills: ['SQL', 'Python', 'R', 'Statistical Analysis', 'Data Mining'],
+      skills: ['SQL', 'Python', 'Statistical Analysis', 'Data Mining'],
       color: 'bg-purple-50 text-purple-600 border-purple-200',
     },
     {
       title: 'Programming',
       icon: Code2,
-      skills: ['Python', 'SQL', 'DAX', 'M Language', 'VBA'],
+      skills: ['Python', 'SQL', 'DAX', 'M Language'],
       color: 'bg-green-50 text-green-600 border-green-200',
     },
     {
